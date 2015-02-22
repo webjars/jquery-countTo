@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-countTo</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>jQuery countTo</name>
     <description>WebJar for jQuery countTo</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/jquery-countTo</url>
         <connection>scm:git:https://github.com/webjars/jquery-countTo.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-countTo.git</developerConnection>
-        <tag>jquery-countTo-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
